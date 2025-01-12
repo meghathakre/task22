@@ -1,0 +1,46 @@
+{
+  "student": [
+    {
+      "id": "1",
+      "rollno": "120",
+      "name": "megha",
+      "city": "indore",
+      "fees": "40000"
+    },
+    {
+      "id": "2",
+      "rollno": 121,
+      "name": "neha",
+      "city": "indore",
+      "fees": 34500
+    },
+    {
+      "id": "3",
+      "rollno": 122,
+      "name": "deepika",
+      "city": "pipriya",
+      "fees": 45000
+    },
+    {
+      "id": "4",
+      "rollno": "123",
+      "city": "jabalpur",
+      "fees": "140000",
+      "name": "sonali"
+    },
+    {
+      "id": "76d1",
+      "rollno": "125",
+      "name": "Rupali",
+      "city": "chhindwara",
+      "fees": "100000"
+    },
+    {
+      "id": "0fb7",
+      "name": "megha thakre",
+      "ammount": "200000",
+      "months": "12",
+      "intrest": "7"
+    }
+  ]
+}

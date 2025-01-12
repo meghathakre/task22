@@ -1,0 +1,54 @@
+#wrapper{
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+    border: 2px solid rgb(63, 13, 33);
+    border-radius: 10px;
+    
+}
+
+
+Button{
+
+    margin-left: 300px;
+}
+.Button:hover{
+    border: solid 2px rgb(21, 6, 21);
+}
+.mb-3{
+    margin-left: 300px;
+    border:1px black;
+}
+h1{
+    text-align: center;
+}
+.color{
+background-color: rgb(125, 58, 110);
+
+}
+.mre-auto{
+    
+    font-size: 18px;
+ 
+}
+.mre-auto  :hover{
+    border: solid 2px rgb(114, 118, 108);
+}
+
+Button{
+    margin-left: 500px;
+   
+}
+.btn1{
+margin-left: 0px;
+}
+ body {
+    background: linear-gradient(45deg,#a9a498,#8f304f);
+ }
+ .input{
+width: 250px;
+ }
+ .label{
+    margin-left: 300px;
+ }
+ 
